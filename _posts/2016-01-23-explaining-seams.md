@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Seams in code, explained"
-date:   2016-01-23 1:35:25
+date:   2016-01-23 1:06:25
 categories: technical post
 ---
 
@@ -15,7 +15,7 @@ I aim to provide an alternate definition.
 
 > **History of the term _seam_:**
 > 
-> It is used in Michael Feather's <a href="http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052">_Working Effectively with Legacy Code_</a>.
+> It is used in Michael Feather's _[Working Effectively with Legacy Code][legacy-code]_.
 
 ## Traditional definition of a seam
 So what is a seam?  
@@ -74,6 +74,8 @@ As long as the borders line up, you can lift and replace it with relative ease.
 
 ### Enjoy!
 
+
+[legacy-code]:      http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052
 
 
 
