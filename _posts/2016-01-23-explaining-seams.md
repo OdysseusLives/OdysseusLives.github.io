@@ -6,12 +6,16 @@ A friend of mine shared that they had never heard an explanation of a seam in th
 
 I aim to provide an alternate definition.  
 
+> **History of the term _seam_:**
+> 
+> It is used in Michael Feather's <a href="http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052">_Working Effectively with Legacy Code_</a>.
+
 ## Traditional definition of a seam
 So what is a seam?  
 
 It's a convenient place in the code where you can rip out one component and replace it with another component.  
 
-The traditional metaphor is the one of a clothing seam, where you can pry pieces of cloth apart in a place that will not damage the overall structure. 
+The traditional metaphor is the one of a clothing seam, where you can pry pieces of cloth apart in a place that will not damage the overall structure.  
 
 <a name="clothing-seams" href="http://sewbeitstudio.com/diy-projects/clothing/gatsbytop/">![Clothing seams](./images/seam-clothing.jpg "Clothing seams")</a>
 
