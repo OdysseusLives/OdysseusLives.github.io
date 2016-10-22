@@ -10,22 +10,22 @@ categories: games
 Do you fiddle with your hands? Find yourself being accidentally destructive in your downtime?  Try these tactile toys/ fidget toys/ interactive games:
 
 ## X-Ball
-!["X-Ball"](/images/x-ball.jpg "X-Ball" =250x)
+<img src="/images/x-ball.jpg alt="X-Ball" style="height: 200px;">
 - Concentration required: M
 - Goal orientation: S
 
 ## Crazy Aaron's Thinking Putty
-!["Crazy Aaron's Thinking Putty"](/images/crazy-aarons-thinking-putty.jpg "Crazy Aaron's Thinking Putty" =250x)
+<img src="/images/crazy-aarons-thinking-putty.jpg alt="Crazy Aaron's Thinking Putty" style="height: 200px;">
 - Concentration required: S
 - Goal orientation: S
 
 ## Crocheting
-!["Crocheting"](/images/crocheting.jpg "Crocheting" =250x)
+<img src="/images/crocheting.jpg alt="Crocheting" style="height: 200px;">
 - Concentration required: M
 - Goal orientation: L
 
 ## Jenga
-!["Jenga"](/images/jenga.jpg "Jenga" =250x)
+<img src="/images/jenga.jpg alt="Jenga" style="height: 200px;">
 - Concentration required: S
 - Goal orientation: S
 
@@ -39,32 +39,32 @@ Also, here's a wild article: [using Jenga to aid therapy](https://sgvcounseling.
 - Name one thing that happens to your body physically when you get nervous or worried. (i.e. sweating, shaking, etc "nervous ")
 
 ## Tangram
-!["Tangram"](/images/tangram.jpg "Tangram" =250x)
+!<img src="/images/tangram.jpg alt="Tangram" style="height: 200px;">
 - Concentration required: L
 - Goal orientation: L
 
 ## Knex
-!["Knex"](/images/knex.jpg "Knex" =250x)
+<img src="/images/knex.jpg alt="Knex" style="height: 200px;">
 - Concentration required: M
 - Goal orientation: M
 
 ## Buckyballs
-!["Buckyballs"](/images/buckyballs.jpg "Buckyballs" =250x)
+<img src="/images/buckyballs.jpg alt="Buckyballs" style="height: 200px;">
 - Concentration required: M
 - Goal orientation: M
 
 ## Legos
-!["Legos"](/images/legos.jpg "Legos" =250x)
+<img src="/images/legos.jpg alt="Legos" style="height: 200px;">
 - Concentration required: S-L
 - Goal orientation: S-L
 
 ## Triangle peg game
-!["Triangle Peg Game"](/images/peg.jpg "Triangle Peg Game" =250x)
+<img src="/images/peg.jpg alt="Triangle Peg Game" style="height: 200px;">
 - Concentration required: M
 - Goal orientation: L
 
 ## Rubix Cube
-!["Rubix cube"](/images/rubix-cube.jpg "Rubix Cube" =250x)
+<img src="/images/rubix-cube.jpg alt="Rubix Cube" style="height: 200px;">
 - Concentration required: XL
 - Goal orientation: XL
 
