@@ -10,22 +10,22 @@ categories: games
 Do you fiddle with your hands? Find yourself being accidentally destructive in your downtime?  Try these tactile toys/ fidget toys/ interactive games:
 
 ## X-Ball
-<img src="/images/x-ball.jpg alt="X-Ball" style="height: 200px;">
+![X-Ball)]("/images/x-ball.jpg "X-Ball")
 - Concentration required: M
 - Goal orientation: S
 
 ## Crazy Aaron's Thinking Putty
-<img src="/images/crazy-aarons-thinking-putty.jpg alt="Crazy Aaron's Thinking Putty" style="height: 200px;">
+![Crazy Aaron's Thinking Putty)]("/images/crazy-aarons-thinking-putty.jpg "Crazy Aaron's Thinking Putty")
 - Concentration required: S
 - Goal orientation: S
 
 ## Crocheting
-<img src="/images/crocheting.jpg alt="Crocheting" style="height: 200px;">
+![Crocheting)]("/images/crocheting.jpg "Crocheting")
 - Concentration required: M
 - Goal orientation: L
 
 ## Jenga
-<img src="/images/jenga.jpg alt="Jenga" style="height: 200px;">
+![Jenga)]("/images/jenga.jpg "Jenga")
 - Concentration required: S
 - Goal orientation: S
 
@@ -39,32 +39,32 @@ Also, here's a wild article: [using Jenga to aid therapy](https://sgvcounseling.
 - Name one thing that happens to your body physically when you get nervous or worried. (i.e. sweating, shaking, etc "nervous ")
 
 ## Tangram
-!<img src="/images/tangram.jpg alt="Tangram" style="height: 200px;">
+![Tangram")](="/images/tangram.jpg "Tangram")
 - Concentration required: L
 - Goal orientation: L
 
 ## Knex
-<img src="/images/knex.jpg alt="Knex" style="height: 200px;">
+![Knex)]("/images/knex.jpg "Knex")
 - Concentration required: M
 - Goal orientation: M
 
 ## Buckyballs
-<img src="/images/buckyballs.jpg alt="Buckyballs" style="height: 200px;">
+![Buckyballs)]("/images/buckyballs.jpg "Buckyballs")
 - Concentration required: M
 - Goal orientation: M
 
 ## Legos
-<img src="/images/legos.jpg alt="Legos" style="height: 200px;">
+![Legos)]("/images/legos.jpg "Legos")
 - Concentration required: S-L
 - Goal orientation: S-L
 
 ## Triangle peg game
-<img src="/images/peg.jpg alt="Triangle Peg Game" style="height: 200px;">
+![Triangle Peg Game)]("/images/peg.jpg "Triangle Peg Game")
 - Concentration required: M
 - Goal orientation: L
 
 ## Rubix Cube
-<img src="/images/rubix-cube.jpg alt="Rubix Cube" style="height: 200px;">
+![Rubix Cube)]("/images/rubix-cube.jpg "Rubix Cube")
 - Concentration required: XL
 - Goal orientation: XL
 
