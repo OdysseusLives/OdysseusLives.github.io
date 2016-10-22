@@ -10,22 +10,22 @@ categories: games
 Do you fiddle with your hands? Find yourself being accidentally destructive in your downtime?  Try these tactile toys/ fidget toys/ interactive games:
 
 ## X-Ball
-!["X-Ball"](./xball.jpg)
+!["X-Ball"](/images/xball.jpg "X-Ball")
 - Concentration required: M
 - Goal orientation: S
 
 ## Crazy Aaron's Thinking Putty
-!["Crazy Aaron's Thinking Putty"](./crazy-aarons-thinking-putty.jpg)
+!["Crazy Aaron's Thinking Putty"](/images/crazy-aarons-thinking-putty.jpg "Crazy Aaron's Thinking Putty")
 - Concentration required: S
 - Goal orientation: S
 
 ## Crocheting
-!["Crocheting"](./crocheting.jpg)
+!["Crocheting"](/images/crocheting.jpg "Crocheting")
 - Concentration required: M
 - Goal orientation: L
 
 ## Jenga
-!["Jenga"](./jenga.jpg)
+!["Jenga"](/images/jenga.jpg "Jenga")
 - Concentration required: S
 - Goal orientation: S
 
@@ -36,35 +36,35 @@ Also, here's a wild article: [using Jenga to aid therapy](https://sgvcounseling.
 - What do you do when you’re worried?
 - Tell about a time when you were worried or nervous, and what happened?
 - Name one of your remedies or solutions for feeling nervous or worried?
-- Name one thing that happens to your body physically when you get nervous or worried. (i.e. sweating, shaking, etc)
+- Name one thing that happens to your body physically when you get nervous or worried. (i.e. sweating, shaking, etc "nervous ")
 
 ## Tangram
-!["Tangram](./tangram.jpg)
+!["Tangram"](/images/tangram.jpg "Tangram")
 - Concentration required: L
 - Goal orientation: L
 
 ## Knex
-!["Knex](./knex.jpg)
+!["Knex"](/images/knex.jpg "Knex")
 - Concentration required: M
 - Goal orientation: M
 
 ## Buckyballs
-!["Buckyballs](./buckyballs.jpg)
+!["Buckyballs"](/images/buckyballs.jpg "Buckyballs")
 - Concentration required: M
 - Goal orientation: M
 
 ## Legos
-!["Legos](./legos.jpg)
+!["Legos"](/images/legos.jpg "Legos")
 - Concentration required: S-L
 - Goal orientation: S-L
 
 ## Triangle peg game
-!["Triangle Peg Game](./peg.jpg)
+!["Triangle Peg Game"](/images/peg.jpg "Triangle Peg Game")
 - Concentration required: M
 - Goal orientation: L
 
 ## Rubix Cube
-!["Rubix cube"](./rubix-cube.jpg)
+!["Rubix cube"](/images/rubix-cube.jpg "Rubix Cube")
 - Concentration required: XL
 - Goal orientation: XL
 
