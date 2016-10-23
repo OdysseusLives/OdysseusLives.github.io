@@ -11,21 +11,25 @@ Do you fiddle with your hands? Find yourself being accidentally destructive in y
 
 ## X-Ball
 ![X-Ball](/images/x-ball.jpg "X-Ball")
+
 - Concentration required: M
 - Goal orientation: S
 
 ## Crazy Aaron's Thinking Putty
 ![Crazy Aaron's Thinking Putty](/images/crazy-aarons-thinking-putty.jpg "Crazy Aaron's Thinking Putty")
+
 - Concentration required: S
 - Goal orientation: S
 
 ## Crocheting
 ![Crocheting](/images/crocheting.jpg "Crocheting")
+
 - Concentration required: M
 - Goal orientation: L
 
 ## Jenga
 ![Jenga](/images/jenga.jpg "Jenga")
+
 - Concentration required: S
 - Goal orientation: S
 
@@ -40,31 +44,37 @@ Also, here's a wild article: [using Jenga to aid therapy](https://sgvcounseling.
 
 ## Tangram
 ![Tangram"](="/images/tangram.jpg "Tangram")
+
 - Concentration required: L
 - Goal orientation: L
 
 ## Knex
 ![Knex](/images/knex.jpg "Knex")
+
 - Concentration required: M
 - Goal orientation: M
 
 ## Buckyballs
 ![Buckyballs](/images/buckyballs.jpg "Buckyballs")
+
 - Concentration required: M
 - Goal orientation: M
 
 ## Legos
 ![Legos](/images/legos.jpg "Legos")
+
 - Concentration required: S-L
 - Goal orientation: S-L
 
 ## Triangle peg game
 ![Triangle Peg Game](/images/peg.jpg "Triangle Peg Game")
+
 - Concentration required: M
 - Goal orientation: L
 
 ## Rubix Cube
 ![Rubix Cube](/images/rubix-cube.jpg "Rubix Cube")
+
 - Concentration required: XL
 - Goal orientation: XL
 
